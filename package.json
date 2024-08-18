@@ -23,6 +23,6 @@
     "nodemon": "^3.1.4"
   },
   "devDependencies": {
-    "serve": "^xxxxx"
+    "serve": "^x.x.x"
   }
 }
